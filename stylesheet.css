@@ -279,10 +279,15 @@ details div {
 /* Style individual sections within the footer */
 
 .contact-info,
-.about-us,
-.footer-links {
+.about-us {
 	margin-right: 20px;
 	width: 250px;
+	margin-bottom: 20px;
+}
+
+.footer-links {
+	margin-right: 20px;
+	width: 200px;
 	margin-bottom: 20px;
 }
 
