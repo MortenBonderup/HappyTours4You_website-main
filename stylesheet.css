@@ -274,6 +274,7 @@ details div {
 	align-items: center;
 	padding: 30px;
 	justify-content: space-between;
+	align-items: flex-start;
 }
 
 /* Style individual sections within the footer */
